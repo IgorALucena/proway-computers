@@ -15,7 +15,7 @@ import { ReactiveFormsModule } from '@angular/forms';
     CommonModule,
     ContatoRoutingModule,
     ReactiveFormsModule,
-    NgxMaskModule.forRoot()//Padroniza a inserção dos dados no formulário
+    NgxMaskModule.forRoot() //Padroniza a inserção dos dados no formulário
   ]
 })
 export class ContatoModule { }
